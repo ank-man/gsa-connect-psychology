@@ -1,0 +1,85 @@
+{
+  "slug": "chloe-martin",
+  "name": "Chloe Martin",
+  "pronouns": "she/her",
+  "title": "Ph.D. Student, Clinical Psychology",
+  "headline": "Mindfulness interventions for anxious college students.",
+  "department": "Department of Psychology",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Mindfulness interventions for anxious college students. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Anxiety",
+    "Mindfulness",
+    "College mental health",
+    "Clinical trials"
+  ],
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "icon": "scholar"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/",
+      "icon": "orcid"
+    }
+  ],
+  "publications": [],
+  "projects": [],
+  "education": [
+    {
+      "degree": "Ph.D. Student, Clinical Psychology",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#7c5cc4",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#f2eefb"
+  }
+}
